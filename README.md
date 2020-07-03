@@ -9,6 +9,7 @@ A Swift 4.0 framework for zipping and unzipping files. Simple and quick to use. 
 ## Usage
 
 Import Zip at the top of the Swift file.
+test
 
 ```swift
 import Zip
